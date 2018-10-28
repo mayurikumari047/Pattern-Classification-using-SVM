@@ -11,16 +11,24 @@ When data are not labeled, supervised learning is not possible, and an unsupervi
 
 I chose the below mentioned Kernel function and this gave the better classification as compared to linear.
 
-### Input details, Kernel function and number of support vectors:
+#### Input details, Kernel function and number of support vectors:
+
 Input length: 100
+
 Input range: 0 to 1
+
 Kernel function used: (1 + x1 * x2) ^ 5
+
 Number of support vectors: 12
 
 ### Color legends:
+
 For input x1: red x
+
 For input x2: blue diagonal
+
 For Hyperplane, H+:Red
+
 For Hyperplane, H-:Blue
 For Optimal hyperplane, H:Black
 
