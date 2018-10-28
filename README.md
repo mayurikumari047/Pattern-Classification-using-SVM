@@ -21,7 +21,7 @@ Kernel function used: (1 + x1 * x2) ^ 5
 
 Number of support vectors: 12
 
-### Color legends:
+#### Color legends used in graphs:
 
 For input x1: red x
 
@@ -30,6 +30,7 @@ For input x2: blue diagonal
 For Hyperplane, H+:Red
 
 For Hyperplane, H-:Blue
+
 For Optimal hyperplane, H:Black
 
 
